@@ -1,1 +1,1 @@
-Date format for file names: dd-mm-yy.md
+Date format for file names: yy-mm-dd.md
