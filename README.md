@@ -2,7 +2,7 @@
 Each day has a separate file with the following name format.
 This will probably be changed in the future.\
 \
-Date format for file names: YY-MM-DD.md.
+Date format for file names: YY-MM-DD.md
 
 ## Goals
 Goals should be set the day before.
